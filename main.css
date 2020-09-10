@@ -38,6 +38,7 @@ header{
 .title_header{
     width: 100vw;
     height: 700px;
+    z-index: 1;
     background: url(../img/background.jpg) no-repeat;
     background-size: cover;
     text-align: center;
